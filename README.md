@@ -1,5 +1,5 @@
 from machine import Pin
-import time
+import time 
 
 sensor = Pin(4, Pin.IN)
 led = Pin(2, Pin.OUT)
